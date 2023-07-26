@@ -3,7 +3,7 @@ $name=$_POST['name'];
 $visitor_email=$_POST['email'];
 $subject=$_POST['subject'];
 $message=$_POST['message'];
-$email_from='info@github.io';
+$email_from='https://samwebsit.github.io/sanmcs.github.io/contact.html';
 $email_subject='New Form';
 $email_body="User Name:$name.\n".
              "User Email:$visitor_email.\n".
